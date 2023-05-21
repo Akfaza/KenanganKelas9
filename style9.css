@@ -1,0 +1,77 @@
+html {
+    column-gap: 0px;
+}
+
+body {
+    background-color: tomato;
+    border: 5px;
+    border-radius: 7px;
+    border-color: white;
+    border-style: solid;
+}
+
+.Title {
+    display: flex;
+    background-color: turquoise;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px;
+    border-color: gray;
+    border-style: dashed;
+    border-radius: 7px;
+}
+
+.foto1 {
+    display: flex;
+    background-color: aquamarine;
+    justify-content: normal;
+    align-items: normal;
+    height: 330px;
+    gap: 45px;
+    border-radius: 10px;
+}
+
+.foto2 {
+    display: flex;
+    background-color: aquamarine;
+    justify-content: normal;
+    align-items: normal;
+    height: 330px;
+    gap: 43px;
+    border-radius: 10px;
+}
+
+img {
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+}
+
+a {
+    background-color: azure;
+    color: rgb(44, 180, 74);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px;
+    border-color: rgb(0, 0, 0);
+    border-style: dotted;
+    border-radius: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.S {
+    background-color: azure;
+    color: rgb(44, 180, 74);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px;
+    border-color: rgb(0, 0, 0);
+    border-style: dotted;
+    border-radius: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
